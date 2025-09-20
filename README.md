@@ -27,6 +27,9 @@ The script reads data from the [adult dataset](https://archive.ics.uci.edu/ml/da
 
 ## ▶️ How to Run
 1. Clone this repo and navigate into it.
+   ```bash
+   git clone <your-github-url>
+   cd demographic-analyzer
 2. Install requirements:
    ```bash
    pip install pandas pytest
